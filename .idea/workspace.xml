@@ -2,41 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae8b0a90-d5d3-4492-8473-b490cbcea13f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/biyesheji2019-B15041718.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/conventional-commit-types/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/conventional-commit-types/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/conventional-commit-types/index.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/conventional-commit-types/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/cz-conventional-changelog/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/cz-conventional-changelog/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/cz-conventional-changelog/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/cz-conventional-changelog/engine.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/cz-conventional-changelog/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/cz-conventional-changelog/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/lodash.map/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/lodash.map/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/lodash.map/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/lodash.map/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/longest/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/longest/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/longest/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/longest/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/right-pad/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/right-pad/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/right-pad/examples/basic.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/right-pad/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/right-pad/rightpad.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/word-wrap/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/word-wrap/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/word-wrap/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/word-wrap/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/word-wrap/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/王达B15041718/code/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/王达B15041718/code/test.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/王达B15041718/code/test.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+              <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -75,13 +41,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
-  </component>
   <component name="NodePackageJsonFileManager">
-    <packageJsonPaths>
-      <path value="$PROJECT_DIR$/package.json" />
-    </packageJsonPaths>
+    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="51" />
@@ -202,7 +163,7 @@
       <workItem from="1555933096040" duration="979000" />
       <workItem from="1556368631712" duration="5666000" />
       <workItem from="1557918264701" duration="32000" />
-      <workItem from="1557920034716" duration="476000" />
+      <workItem from="1557920034716" duration="1146000" />
     </task>
     <task id="LOCAL-00001" summary=":ambulance:测试">
       <created>1556369236578</created>
@@ -215,7 +176,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9414000" />
+    <option name="totallyTimeSpent" value="10084000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -231,10 +192,10 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.5157025" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.54214877" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.54214877" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26928896" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26928896" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -316,7 +277,7 @@
     <entry file="file://$PROJECT_DIR$/王达B15041718/code/test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+          <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
