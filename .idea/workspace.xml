@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ae8b0a90-d5d3-4492-8473-b490cbcea13f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/王达B15041718/code/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/王达B15041718/code/test.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +19,19 @@
         <entry file="file://$PROJECT_DIR$/王达B15041718/code/test.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
+              <caret column="24" selection-start-column="24" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="76">
+                <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -31,6 +44,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/王达B15041718/code/test.txt" />
       </list>
     </option>
@@ -42,7 +56,14 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/node_modules/conventional-commit-types/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cz-conventional-changelog/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/right-pad/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/word-wrap/package.json" />
+    </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="51" />
@@ -55,6 +76,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -62,24 +85,11 @@
               <item name="biyesheji2019-B15041718" type="b2602c69:ProjectViewProjectNode" />
               <item name="biyesheji2019-B15041718" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="biyesheji2019-B15041718" type="b2602c69:ProjectViewProjectNode" />
-              <item name="biyesheji2019-B15041718" type="462c0819:PsiDirectoryNode" />
-              <item name="王达B15041718" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="biyesheji2019-B15041718" type="b2602c69:ProjectViewProjectNode" />
-              <item name="biyesheji2019-B15041718" type="462c0819:PsiDirectoryNode" />
-              <item name="王达B15041718" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -164,6 +174,8 @@
       <workItem from="1556368631712" duration="5666000" />
       <workItem from="1557918264701" duration="32000" />
       <workItem from="1557920034716" duration="1146000" />
+      <workItem from="1557931318222" duration="25000" />
+      <workItem from="1557933066802" duration="414000" />
     </task>
     <task id="LOCAL-00001" summary=":ambulance:测试">
       <created>1556369236578</created>
@@ -176,7 +188,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10084000" />
+    <option name="totallyTimeSpent" value="10523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -192,10 +204,10 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.5157025" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.54214877" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.54214877" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26928896" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27760968" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -251,6 +263,20 @@
     <entry file="file://$PROJECT_DIR$/王达B15041718/code/test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/王达B15041718/code/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/王达B15041718/code/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <caret column="19" selection-start-column="19" selection-end-column="19" />
         </state>
       </provider>
@@ -274,10 +300,20 @@
     <entry file="file://$PROJECT_DIR$/王达B15041718/code/test.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/王达B15041718/code/test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
